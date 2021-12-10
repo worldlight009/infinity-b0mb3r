@@ -1,4 +1,4 @@
 # infinity-b0mb3r
 >Примечание: используются некоторые ресурсы из b0mb3r.
 # Windows
-```if you dayn then don't can it!```
+```If you are not smart then do not use this repository```
